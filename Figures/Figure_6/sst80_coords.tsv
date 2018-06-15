@@ -1,0 +1,31 @@
+sst80_cl	sst80_cluster_id	sst80_cluster_label	sst80_cluster_color	const_x	const_y
+1	1	Sst Chodl_1	#FFFF00	1.25	8
+2	2	Sst Chodl_2	#FFFF20	1.75	8
+3	3	Sst Tac1 Tacr3	#B06411	5	1.5
+4	4	Sst Tac1 Htr1d	#804811	5	2.5
+5	5	Sst Mme Fam114a1	#FFBB33	5	4.5
+6	6	Sst Calb2 Pdlim5_1	#BF480D	1	2.5
+7	7	Sst Calb2 Pdlim5_2	#BF482D	1.5	3.75
+8	8	Sst Calb2 Pdlim5_3	#BF684D	1.5	3.25
+9	9	Sst Calb2 Pdlim5_4	#BF680D	1	3.25
+10	10	Sst Calb2 Necab1	#BF282D	3	1.5
+11	11	Sst Nr2f2 Necab1	#FFDF11	1	4.5
+12	12	Sst Myh8 Etv1 	#FFDF31	1	6
+13	13	Sst Hpse Sema3c_1	#BF9F00	2	4.75
+14	14	Sst Hpse Sema3c_2	#BF9F40	2	4.25
+15	15	Sst Hpse Sema3c_3	#BF9F60	2.5	5.5
+16	16	Sst Hpse Cbln4	#806B19	3	3.75
+17	17	Sst Myh8 Fibin	#FF8031	2	7.5
+18	18	Sst Chrna2 Glra3_1	#FF9F2C	0.5	7
+19	19	Sst Chrna2 Glra3_2	#FF9F4C	1	6.75
+20	20	Sst Chrna2 Glra3_3	#FF9F6C	1	7.5
+21	21	Sst Chrna2 Ptgdr	#FFB307	2	6
+22	22	Sst Tac2 Myh4	#D9C566	3	6.75
+23	23	Sst Tac2 Tacstd2	#BF8219	3	5
+24	24	Sst Esm1	#C11331	5	6.75
+25	25	Sst Crh 4930553C11Rik_1	#B95541	4.5	5.5
+26	26	Sst Crh 4930553C11Rik_2	#B95561	5	5
+27	27	Sst Crhr2 Efemp1	#B95581	4	4.5
+28	28	Sst Rxfp1 Prdm8	#802600	4	6
+29	29	Sst Rxfp1 Eya1	#994C20	4	5
+30	30	Sst Nts	#A81111	4.5	7.5

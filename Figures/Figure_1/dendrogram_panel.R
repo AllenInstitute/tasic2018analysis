@@ -6,22 +6,20 @@ library(feather)
 options(stringsAsFactors = F)
 
 # Load the dendrogram from the feather directory
-dend_feather <- readRDS("//allen/programs/celltypes/workgroups/rnaseqanalysis/shiny/facs_seq/mouse_V1_ALM_20170913/dend.Rdata")
+dend <- readRDS("//allen/programs/celltypes/workgroups/rnaseqanalysis/shiny/facs_seq/mouse_V1_ALM_20180520/dend.Rdata")
 
 # 20170927: Use the dendrogram from Osnat with weights based on bootstrapping confidence
-dend <- readRDS("//allen/programs/celltypes/workgroups/rnaseqanalysis/osnat/nodes_confidence/WGCNA_result_anterograde3/pv.dend.bp.rds")
-res <- readRDS("//allen/programs/celltypes/workgroups/rnaseqanalysis/osnat/nodes_confidence/WGCNA_result_anterograde3/pv.res.rds")
-dend <- dend %>%
-  pvclust_show_signif_gradient(res, signif_type = "bp", signif_col_fun=colorRampPalette(c("white","black"))) %>%
-  pvclust_show_signif(res, signif_type="bp", signif_value=c(2,1))
-labels(dend) <- labels(dend_feather)
+# dend <- dend %>%
+#   pvclust_show_signif_gradient(res, signif_type = "bp", signif_col_fun=colorRampPalette(c("white","black"))) %>%
+#   pvclust_show_signif(res, signif_type="bp", signif_value=c(2,1))
+# labels(dend) <- labels(dend_feather)
 
 # Retrieve annotations feather to get n per cluster
-anno <- read_feather("//allen/programs/celltypes/workgroups/rnaseqanalysis/shiny/facs_seq/mouse_V1_ALM_20170913/anno.feather")
+anno <- read_feather("//allen/programs/celltypes/workgroups/rnaseqanalysis/shiny/facs_seq/mouse_V1_ALM_20180520/anno.feather")
 
 # cluster_id order doesn't match dendrogram order
 anno <- anno %>%
-  filter(cluster_id %in% 1:116)
+  filter(cluster_id %in% 1:133)
 
 n_clusters <- max(anno$cluster_id)
 
@@ -46,7 +44,7 @@ anno <- anno %>%
 panel_pad <- 0.05
 
 sections <- anno %>%
-  group_by(coarse_id) %>%
+  group_by(subclass_id) %>%
   summarise(x = min(dendcluster_id - 0.5),
             xend = n_clusters + 0.5)
 

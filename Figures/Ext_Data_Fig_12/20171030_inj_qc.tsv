@@ -1,0 +1,90 @@
+donor_label	cell_collection_date	virus	inj_type_label	inj_roi_label	inj_target	inj_primary	inj_all	inj_tract	inj_flag	ctx_tract
+266796	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp, AUDv"	none	OK	no
+266797	#N/A	#N/A	Retrograde	ALM : MOs	ALM-c	ALM-c	"MOs, MOp"	none	OK	no
+266799	#N/A	#N/A	Retrograde	ALM : ZI	ZI	ZI	"ZI, VAL, VPM, LP"	"MOp, HPF"	OK	yes
+266801	#N/A	#N/A	Retrograde	ALM : PF	PF	PF	"PF, MD, LH, LP"	"MOp, HPF"	OK	yes
+267086	#N/A	#N/A	Retrograde	ALM : BLA	BLA	BLA	"BLA, CP"	SSp	Inj_Tract	yes
+267874	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSp	"SSp, SSs"	none	OK	no
+267875	#N/A	#N/A	Retrograde	ALM : MOs	ALM-c	ALM-c	MOs	none	OK	no
+267876	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	SSs	none	OK	no
+267877	#N/A	#N/A	Retrograde	ALM : MOs	ALM-c	ALM-c	"MOs, PL"	none	OK	no
+267878	#N/A	#N/A	Retrograde	ALM : BLA	BLA	BLA	"BLA, EPd, CP"	SSp	Inj_Tract	yes
+269212	#N/A	#N/A	Retrograde	ALM : SCm	SCm	RSP	"RSP, SCs"	RSPd	OK	yes
+269214	#N/A	#N/A	Retrograde	ALM : MOs	ALM-c	ALM-c	MOs	none	OK	no
+269458	#N/A	#N/A	Retrograde	ALM : PF	PF	MD	"MD, LD, PF, LH, PVT"	"MOp, MOs"	OK	yes
+269459	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp"	none	OK	no
+270079	#N/A	#N/A	Retrograde	ALM : SCm	SCm	RSP	"RSP, SCs, SCm"	RSPd	OK	yes
+270080	#N/A	#N/A	Retrograde	ALM : MOp	MOp	MOp	"MOp, MOs, SSp"	none	OK	no
+270083	#N/A	#N/A	Retrograde	ALM : PERI	PERI	PERI	"PERI, ECT, Tea, AUDv"	none	OK	no
+270881	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp"	none	OK	no
+271363	#N/A	#N/A	Retrograde	ALM : AId	Aid-c	ORBl-c	"ORBl, Aid"	MOs	OK	yes
+271523	#N/A	#N/A	Retrograde	ALM : CP	CP-c	CP-c	"CP, cc"	none	OK	no
+271526	#N/A	#N/A	Retrograde	ALM : CP	CP-c	CP-c	"CP, cc"	none	OK	no
+272040	#N/A	#N/A	Retrograde	ALM : MOs	ALM-c	ALM-c	MOs	none	OK	no
+272046	#N/A	#N/A	Retrograde	ALM : BLA	BLA	BLA	"BLA, CP, SSp"	SSp	Inj_Tract	yes
+272050	#N/A	#N/A	Retrograde	ALM : BLA	BLA	BLA	"BLA, CP, SSp"	SSp	Inj_Tract	yes
+272051	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp"	none	OK	no
+272052	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp"	none	OK	no
+272053	#N/A	#N/A	Retrograde	ALM : SSs	SSs	SSs	"SSs, SSp"	none	OK	no
+277629	#N/A	#N/A	Retrograde	ALM : IRN	IRN	PARN	PARN	CBX	OK	no
+277630	#N/A	#N/A	Retrograde	ALM : IRN	IRN	IRN	"IRN, PARN, CU, ECU, NTSI"	none	OK	no
+277631	#N/A	#N/A	Retrograde	ALM : PRNc	PRNc	GRN	"GRN, PRNc"	none	OK	no
+278760	#N/A	#N/A	Retrograde	ALM : PG	PG	PG	PG	"SCs, SCm, PAG, PRNr"	OK	no
+280708	11/9/2016	CAV-Cre	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs, PL"	none	OK	no
+280709	11/9/2016	CAV-Cre	Retrograde	VISp : RSP	RSP	RSP	"RSP, PTLp, VISam"	none	Inj_Site_Dissected	no
+280710	11/10/2016	CAV-Cre	Retrograde	VISp : AUDd	AUDd	VISal	"VISal, PTLp, AUDd"	none	Inj_Site_Dissected	no
+280711	11/10/2016	CAV-Cre	Retrograde	VISp : VISp	VISp-c	VISp-c	"VISp, VISam, VISpm"	none	OK	no
+280712	11/11/2016	CAV-Cre	Retrograde	VISp : CP	CP-c	CP-c	"CP, cc"	MOp	OK	yes
+280713	11/11/2016	CAV-Cre	Retrograde	VISp : LP	LP	LP	"LP, LD, PO, VPM"	"PTLp, SSp, HPF"	OK	yes
+280714	11/14/2016	CAV-Cre	Retrograde	VISp : LD	LD	LD	LD	"MOp, HPF"	OK	yes
+280718	11/15/2016	CAV-Cre	Retrograde	VISp : PG	PG	PG	PG	RSP	OK	yes
+281387	11/16/2016	dGdL-Rabies	Retrograde	VISp : RSP	RSP	RSP	"RSP, VISam"	none	OK	no
+281759	11/17/2016	dGdL-Rabies	Retrograde	VISp : AUDd	AUDd	AUDd	"PTLp, VISal, AUDd"	none	Inj_Site_Dissected	no
+282067	11/21/2016	CAV-Cre	Retrograde	VISp : PRT	PRT	LP	"PRT, LP"	"VISam, HPF"	OK	yes
+282173	11/22/2016	CAV-Cre	Retrograde	VISp : LGd	LGd	LGd	"LGd, LGv, LP"	none	OK	no
+282174	11/23/2016	AAV2-retro-EF1a-Cre	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs, PL"	none	OK	no
+282509	11/16/2016	dGdL-Rabies	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs, PL"	none	OK	no
+284143	11/28/2016	AAV2-retro-EF1a-Cre	Retrograde	VISp : RSP	RSP	RSP	"RSP, VISam"	none	OK	no
+284144	11/29/2016	AAV2-retro-EF1a-Cre	Retrograde	VISp : AUDd	AUDd	AUDd	"PTLp, VISal, AUDd"	none	Inj_Site_Dissected	no
+284706	12/7/2016	dGdL-Rabies	Retrograde	VISp : LGd	LGd	LGd	"LGd, LGv, LP"	"PTLp, HPF"	OK	no
+284708	12/6/2016	dGdL-Rabies	Retrograde	VISp : PRT	PRT	LP	"LP, PRT, PF"	RSP	OK	yes
+286575	#N/A	#N/A	Retrograde	ALM : PRNc	PRNc	PRNc	"PRNc, IRN"	CBX	OK	no
+286662	#N/A	#N/A	Retrograde	ALM : PG	PG	PG	"PG, IPN"	"SCs, SCm, PAG"	OK	no
+287328	#N/A	#N/A	Retrograde	ALM : PF	PF	PF	"PF, LH"	"MOp, HPF"	OK	yes
+288347	#N/A	#N/A	Retrograde	ALM : IRN	IRN	IRN	"IRN, GRN"	CBX	OK	no
+290474	1/4/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : VISp	VISp-c	VISp-c	"VISp, VISam, VISpm, VISal"	none	OK	no
+291016	1/5/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : PG	PG	PG	PG	"RSP, SCm, SCs, MRN"	OK	yes
+293794	1/25/2017	dGdL-Rabies	Retrograde	VISp : VISl	VISl	VISl	VISl	none	Inj_Site_Dissected	no
+293796	1/25/2017	dGdL-Rabies	Retrograde	VISp : VISrl	VISrl	VISal	VISal	none	Inj_Site_Dissected	no
+293797	1/26/2017	dGdL-Rabies	Retrograde	VISp : VISpm	VISpm	RSP	"RSP, VISam"	none	Inj_Site_Dissected	no
+294008	1/23/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : SCs	SCs	RSP	RSP	none	Surface	no
+294010	1/24/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : SCs	SCs	RSP	RSP	none	Inj_Site_Dissected	no
+295255	1/31/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : CP	CP-c	CP-c	CP	MOp	OK	yes
+295257	2/1/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : LD	LD	LD	"LD, LP"	"MOp, HPF"	OK	yes
+295259	2/1/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : LD	LD	LD	"LD, LP"	"MOp, HPF"	OK	yes
+295260	2/2/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : PG	PG	PG	"PG, TRN"	"SCs, SCm, PAG"	OK	no
+295489	2/2/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : VISp	VISp-c	VISp-c	"VISp, VISpm, VISpl"	none	OK	no
+295491	2/3/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : PG	PG	PG	PG	"SCs, SCm, PAG"	OK	no
+295493	2/3/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : VISp	VISp-c	VISp-c	"VISp, VISpm, VISpl"	none	OK	no
+295500	1/30/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : CLA	CLA	unknown	unknown	unknown	Inj_Site_Unknown	unknown
+295501	1/30/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : CLA	CLA	unknown	unknown	unknown	Inj_Site_Unknown	unknown
+309019	4/10/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs"	none	OK	no
+309020	4/10/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : SCs	SCs	SCs	"SCs, SCm"	none	OK	no
+309021	4/11/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : SCs	SCs	SCs	"SCs, SCm"	none	OK	no
+313296	4/28/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs, MOp"	none	OK	no
+323353	6/9/2017	AAV2-retro-EF1a-tdTomato	Retrograde	VISp : PRT	PRT	DG	DG	none	Inj_Site_Wrong	no
+323354	6/9/2017	AAV2-retro-EF1a-tdTomato	Retrograde	VISp : ACA	ACA	ACA	"ACA, MOs"	none	OK	no
+324789	6/12/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : PRT	PRT	DG	DG	none	Inj_Site_Wrong	no
+324792	6/12/2017	AAV2-retro-EF1a-Cre	Retrograde	VISp : LGd	LGd	DG	DG	SSp	Inj_Site_Wrong	yes
+ANM375888	#N/A	#N/A	Retrograde	ALM : IRN	IRN	IRN	IRN	none	OK	no
+ANM375889	#N/A	#N/A	Retrograde	ALM : IRN	IRN	IRN	IRN	none	OK	no
+ANM382288	#N/A	#N/A	Retrograde	ALM : VAL	VAL	VAL	VAL	none	OK	no
+ANM384860	#N/A	#N/A	Retrograde	ALM : SC	SC	SC	SC	none	OK	no
+ANM386332	#N/A	#N/A	Retrograde	ALM : PG	PG	PG	PG	none	OK	no
+266800			Retrograde	Not Reviewed SCm	Not Reviewed SCm	Not Reviewed SCm	Not Reviewed SCm	Not Reviewed	Not Reviewed	
+270081			Retrograde	Not Reviewed PF	Not Reviewed PF	Not Reviewed PF	Not Reviewed PF	Not Reviewed	Not Reviewed	
+271524			Retrograde	Not Reviewed ZI	Not Reviewed ZI	Not Reviewed ZI	Not Reviewed ZI	Not Reviewed	Not Reviewed	
+281348			Retrograde	Not Reviewed PRNc	Not Reviewed PRNc	Not Reviewed PRNc	Not Reviewed PRNc	Not Reviewed	Not Reviewed	
+282069			Retrograde	Not Reviewed CLA	Not Reviewed CLA	Not Reviewed CLA	Not Reviewed CLA	Not Reviewed	Not Reviewed	
+286440			Retrograde	Not Reviewed IRN	Not Reviewed IRN	Not Reviewed IRN	Not Reviewed IRN	Not Reviewed	Not Reviewed	
+278759			Retrograde	Not Reviewed PG	Not Reviewed PG	Not Reviewed PG	Not Reviewed PG	Not Reviewed	Not Reviewed	

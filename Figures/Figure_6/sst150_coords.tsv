@@ -1,0 +1,22 @@
+cl	sst150_cl	sst150_cluster_id	sst150_cluster_label	sst150_cluster_color	const_x	const_y
+31	1	30	Sst Chodl	#FFFF00	1.25	8
+36	2	31	Sst Mme Fam114a1	#FFBB33	5	4.5
+35	3	32	Sst Tac1 Htr1d	#804811	5	2.5
+32	4	33	Sst Tac1 Tacr3	#B06411	5	1.5
+38	5	34	Sst Calb2 Necab1	#BF480D	3	1.5
+37	6	35	Sst Calb2 Pdlim5	#CC6D3D	1	3.75
+33	7	36	Sst Nr2f2 Necab1	#FFDF11	1	4.5
+34	8	37	Sst Myh8 Etv1	#D6C300	1	6
+41	9	38	Sst Myh8 Fibin	#FF8011	2	7.5
+42	10	39	Sst Chrna2 Glra3	#FF9F2C	1	7
+43	11	40	Sst Chrna2 Ptgdr	#FFB307	2	6
+45	12	41	Sst Tac2 Myh4	#D9C566	3	6.75
+39	13	42	Sst Hpse Sema3c	#BF9F00	2	4.5
+40	14	43	Sst Hpse Cbln4	#806B19	3	3.75
+47	15	44	Sst Crhr2 Efemp1	#B95541	4	4.5
+48	16	45	Sst Crh 4930553C11Rik	#C77767	5	5.25
+46	17	46	Sst Esm1	#C11331	5	6.75
+44	18	47	Sst Tac2 Tacstd2	#BF8219	3	5
+50	19	48	Sst Rxfp1 Eya1	#994C00	4	5
+49	20	49	Sst Rxfp1 Prdm8	#802600	4	6
+51	21	50	Sst Nts	#A81111	4.5	7.5

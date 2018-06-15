@@ -1,0 +1,16 @@
+class_label1,class_label2,class_type,class_color
+Glutamatergic,Glutamatergic,both_gluta,#00A809
+Glutamatergic,GABAergic,gluta_gaba,#B03FAB
+GABAergic,Glutamatergic,gluta_gaba,#B03FAB
+GABAergic,GABAergic,both_gaba,#DA1C5C
+Glutamatergic,Endothelial,neu_non,#8B5E3C
+Endothelial,Glutamatergic,neu_non,#8B5E3C
+GABAergic,Endothelial,neu_non,#8B5E3C
+Endothelial,GABAergic,neu_non,#8B5E3C
+Non-Neuronal,Glutamatergic,neu_non,#8B5E3C
+Glutamatergic,Non-Neuronal,neu_non,#8B5E3C
+Non-Neuronal,GABAergic,neu_non,#8B5E3C
+GABAergic,Non-Neuronal,neu_non,#8B5E3C
+Non-Neuronal,Non-Neuronal,non_non,#726658
+Non-Neuronal,Endothelial,non_non,#726658
+Endothelial,Non-Neuronal,non_non,#726658

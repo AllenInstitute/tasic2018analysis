@@ -1,0 +1,16 @@
+sst300_cl	sst300_cluster_id	sst300_cluster_label	sst300_cluster_color	const_x	const_y
+1	1	Sst Chodl	#FFFF00	1.25	8
+2	2	Sst Tac1 Htr1d	#804811	5	2.5
+3	3	Sst Mme Fam114a1	#FFBB33	5	4.5
+4	4	Sst Calb2 Pdlim5	#BF480D	1	3.75
+5	5	Sst Nr2f2 Necab1	#FFDF11	1	4.5
+6	6	Sst Hpse Sema3c	#BF9F00	2	4.5
+7	7	Sst Myh8 Fibin	#FF8011	2	7.5
+8	8	Sst Chrna2 Glra3	#FF9F2C	1	7
+9	9	Sst Chrna2 Ptgdr	#FFB307	2	6
+10	10	Sst Tac2 Myh4	#D9C566	3	6.75
+11	11	Sst Tac2 Tacstd2	#BF8219	3	5
+12	12	Sst Esm1	#C11331	5	6.75
+13	13	Sst Crhr2 Efemp1	#B95541	4	4.5
+14	14	Sst Rxfp1 Prdm8	#802600	4	6
+15	15	Sst Nts	#A81111	4.5	7.5
